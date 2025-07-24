@@ -8,13 +8,14 @@ Recent Computer Science graduate from Cavite State University, passionate about 
 
 ## 🛠️ Technical Toolkit
 
-- **Languages:** Python (pandas, NumPy, scikit‑learn), SQL (MySQL, PostgreSQL), basic JavaScript  
+- **Languages:** Python (pandas, NumPy, scikit‑learn), SQL (MySQL), basic JavaScript, Java  
 - **Analytics & BI:** Jupyter, Excel, Google Sheets, Tableau, Power BI  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Dash  
-- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Visualization:** Matplotlib, Seaborn
+- **Databases:** MySQL
 - **ML & Statistics:** Regression, Random Forest, Hyper‑parameter tuning, scikit‑learn  
-- **Dev & Workflow:** Git & GitHub, GitHub Actions, VS Code, Linux, Agile/Scrum  
-- **Domain Knowledge:** Fire behavior modelling, environmental data, public health data
+- **Dev & Workflow:** Git & GitHub, VS Code, Windows, Iterative/Incremental Development, Agile/Scrum
+- **Domain Knowledge:** Simulation modeling, fire behavior analysis, environmental data, KPI and performance analysis, customer behavior analytics, operational insights, time series forecasting, data quality assurance, and data cleaning for decision support.
+
 
 ---
 
@@ -32,9 +33,9 @@ Recent Computer Science graduate from Cavite State University, passionate about 
 
 ## 🌐 Find Me Elsewhere
 
-- 📧 **Email:** <edrei.reigne@example.com>  
-- 💼 **LinkedIn:** <https://linkedin.com/in/edreireigne>  
-- 🖥️ **Portfolio Website:** <https://edreireigne.github.io> (built with GitHub Pages)
+- 📧 **Email:** <riveraedreireigne@gmail.com>  
+- 💼 **LinkedIn:** <www.linkedin.com/in/edrei-reigne-rivera-b62149297>  
+- 🖥️ **Portfolio Website:** <https://edreireigne.github.io> 
 
 ---
 
@@ -43,12 +44,11 @@ Recent Computer Science graduate from Cavite State University, passionate about 
 ![Edrei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edreireigne&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edreireigne&layout=compact)
 
-*(Badges update automatically—feel free to customize the theme or hide repos.)*
 
 ---
 
 ### 🧩 Fun Fact
-When I’m not crunching numbers, you’ll find me experimenting with fire‑simulation models or leveling‑up my SQL skills through gamified challenges.
+When I’m not crunching numbers, you’ll find me experimenting with new knowledge, reading a fantasy book, listening to music, or leveling‑up my SQL skills through gamified challenges.
 
 ---
 
