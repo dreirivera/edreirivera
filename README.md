@@ -41,8 +41,8 @@ Recent Computer Science graduate from Cavite State University, passionate about 
 
 ## 📊 GitHub Stats
 
-![Edrei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edreireigne&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edreireigne&layout=compact)
+![Edrei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreirivera&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreirivera&layout=compact)
 
 
 ---
