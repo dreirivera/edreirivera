@@ -23,7 +23,7 @@ Recent Computer Science graduate from Cavite State University, passionate about 
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **Fire Behavior Simulation App** | Desktop app that predicts Heat Release Rate (HRR) using a Random Forest model and visualizes MSE/R² trends over time. Integrates Fire Dynamics Simulator (FDS) and a Tkinter GUI. | Python • scikit‑learn • Tkinter • FDS • SQLite |
+| **Fire Behavior Simulation Model** | Desktop app that predicts Heat Release Rate (HRR) using a Random Forest model and visualizes MSE/R² trends over time. Integrates Fire Dynamics Simulator (FDS) and a Tkinter GUI. | Python • scikit‑learn • Tkinter • FDS • SQLite |
 | **PH COVID‑19 Data Dashboard** | Automatically pulls DOH open data to present daily case trends, vaccination progress, and moving averages via an interactive dashboard. | Python • pandas • Plotly Dash • GitHub Actions |
 | **Retail Sales SQL Analytics** | 50 k+ POS transactions cleaned, joined, and queried to uncover key revenue drivers and customer segments. Visualized insights in Tableau. | MySQL • SQL window functions • Tableau |
 
